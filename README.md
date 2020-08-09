@@ -19,7 +19,7 @@ Durante os dias 03 a 09 de agosto de 2020.
 ## 🖥 Preview Mobile
 
 <p align="center">
-  <!--<img src="https://ik.imagekit.io/capitao/Proffy/final_1596781937_urgAUoPC-.jpg" width="700" >-->
+  <!--<img src="https://github.com/AnaFlaviaFerreira/Proffy-/blob/master/public/imagens/home_mobile.PNG" width="700" >-->
 </p>
 
 ------------
