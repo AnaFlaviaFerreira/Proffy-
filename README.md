@@ -11,7 +11,7 @@ Durante os dias 03 a 09 de agosto de 2020.
 ## 🖥 Preview Web
 
 <p align="center">
-  <img src="public/imagens/home_web.png"" width="700" >
+  <img src="public/imagens/home_web.png" width="700" >
 </p>
 
 ------------ 
